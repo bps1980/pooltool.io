@@ -100,10 +100,10 @@ class SendMyTip():
 if __name__ == "__main__":
     
     # Your pool id as on the explorer
-    poolid = "52b33axxxxxxxxxxxx"
+    poolid = "4d37f7fbff135536da9b1b7ef43176b741e531573721fef8b4b427b8"
     
     # get this from your account profile page on pooltool website
-    userid = "xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx"
+    userid = "9f58b549-d91a-43b6-bae7-88df35e8382f"
     
     # Pooltool only actually looks at the first 7 characters
     genhash = "8e4d2a343f3dcf93"
